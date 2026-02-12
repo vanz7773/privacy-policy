@@ -1,6 +1,6 @@
 Privacy Policy – My School App-SMS
 
-Effective Date: [01/01/2026]
+Effective Date: 01/01/2026
 
 My School App-SMS is a school management application designed to support school administration, attendance tracking, and communication within educational institutions. We are committed to protecting the privacy, security, and confidentiality of all users.
 
