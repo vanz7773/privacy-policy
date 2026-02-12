@@ -1,8 +1,9 @@
 Privacy Policy – My School App-SMS
 
-Effective Date: 01/01/2026
+Effective Date: 01 January 2026
+Country: Ghana
 
-My School App-SMS is a school management application designed to support school administration, attendance tracking, and communication within educational institutions. We are committed to protecting the privacy, security, and confidentiality of all users.
+My School App-SMS (“the App”) is a school management application designed to support school administration, attendance tracking, and communication within educational institutions. We are committed to protecting the privacy, security, and confidentiality of all users.
 
 This Privacy Policy explains what data we collect, why we collect it, how it is used, and how it is protected.
 
