@@ -1,13 +1,12 @@
 Privacy Policy – My School App-SMS
 
-Effective Date: 01 January 2026
-Country: Ghana
+Effective Date: 01/01/2026
 
-My School App-SMS (“the App”) is a school management application designed to support school administration, attendance tracking, and communication within educational institutions. We are committed to protecting the privacy, security, and confidentiality of all users.
+My School App-SMS is a school management application designed to support school administration, attendance tracking, and communication within educational institutions. We are committed to protecting the privacy, security, and confidentiality of all users.
 
 This Privacy Policy explains what data we collect, why we collect it, how it is used, and how it is protected.
 
-1. Information We Collect
+Information We Collect
 
 We collect only the information necessary to operate the App for official school activities.
 
@@ -87,7 +86,7 @@ Device type and operating system version
 
 This data is used only to improve app stability, reliability, and performance.
 
-2. How We Use Information
+How We Use Information
 
 We use collected information strictly to:
 
@@ -103,7 +102,7 @@ Communicate important school or system-related updates
 
 We do not use user data for advertising, marketing, or commercial profiling.
 
-3. Use of School-Managed Accounts
+Use of School-Managed Accounts
 
 All user accounts within the App are created, managed, and controlled by the school.
 
@@ -115,27 +114,27 @@ The App does not create independent consumer accounts
 
 All data usage is tied strictly to official school activities
 
-4. What We Do NOT Do
+What We Do NOT Do
 
 To be clear and transparent:
 
 We do not track users across apps or websites
 
- We do not sell personal data
+We do not sell personal data
 
- We do not share data with advertisers
+We do not share data with advertisers
 
- We do not use data for targeted advertising
+We do not use data for targeted advertising
 
- We do not build advertising or behavioral profiles
+We do not build advertising or behavioral profiles
 
-5. Data Sharing
+Data Sharing
 
-We do not share personal data with third parties. 
+We do not share personal data with third parties.
 
 All service providers are required to comply with appropriate data protection and security standards.
 
-6. Data Storage and Security
+Data Storage and Security
 
 User data is stored using industry-standard security measures
 
@@ -143,7 +142,7 @@ Access to data is restricted to authorized personnel and systems
 
 Appropriate safeguards are in place to prevent unauthorized access, loss, or misuse
 
-7. Children’s Privacy
+Children’s Privacy
 
 The App is designed for use within educational institutions and may be used by minors under school supervision.
 
@@ -153,7 +152,7 @@ Schools are responsible for obtaining any required parental or guardian consent
 
 We do not knowingly collect unnecessary personal data from children
 
-8. Data Retention
+Data Retention
 
 We retain user data only for as long as:
 
@@ -165,7 +164,25 @@ Retention is required by applicable laws or regulations
 
 Data may be deleted upon request by the school or authorized administrator, subject to applicable requirements.
 
-9. User Rights
+Data Deletion
+
+Users may request the deletion of their personal data at any time.
+
+Because accounts are created and managed by schools, data deletion requests must be made through the user’s school administration. Authorized school administrators can request account and data deletion on behalf of students, parents, or teachers.
+
+Data that may be deleted includes:
+
+Account information (name and school-issued email)
+
+Attendance records
+
+Profile information
+
+Associated app usage records
+
+Some records may be retained for a limited period where required for academic, administrative, or legal purposes, after which they are securely deleted.
+
+User Rights
 
 Depending on applicable laws and school policies, users may have the right to:
 
@@ -177,7 +194,7 @@ Request deletion of data (subject to school and legal requirements)
 
 Requests should be made through the school administration or designated contact channels.
 
-10. Changes to This Privacy Policy
+Changes to This Privacy Policy
 
 We may update this Privacy Policy to reflect:
 
@@ -189,9 +206,9 @@ Legal or regulatory requirements
 
 Any updates will be communicated through the App or official school channels.
 
-11. Contact Information
+Contact Information
 
 For questions or concerns regarding this Privacy Policy or data handling practices, please contact:
 
-Organization: SHILOH ADVANCED BUILDING MATERIALS
-Country: GHANA
+Organization: Shiloh Advanced Building Materials
+Country: Ghana
