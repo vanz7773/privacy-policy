@@ -226,7 +226,7 @@ Any updates will be communicated through the App or official school channels.
 
 For questions or concerns regarding this Privacy Policy or data handling practices, please contact:
 
-Organization:** Shiloh Advanced Building Materials
+Organization: Shiloh Advanced Building Materials
 Country: Ghana
 
 
