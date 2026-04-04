@@ -81,33 +81,6 @@ We may collect limited technical information such as:
 This data is used only to improve app stability, reliability, and performance.
 
 
-
-# f. Device Activity Monitoring (Working Hours Only)
-
-To improve attendance accuracy and prevent misuse of the attendance system, the App may collect limited device activity data during official school working hours.
-
-This may include:
-
-* device motion signals (such as movement and orientation changes)
-* device activity patterns (such as whether the device is stationary or in motion)
-* internet connectivity status (connected or disconnected)
-
-This information is used solely for:
-
-* verifying staff presence during working hours
-* detecting possible device misuse (such as leaving a phone behind)
-* improving the accuracy of attendance records
-
-Important:
-
-* Monitoring is active only during official working hours set by the school
-* The App does NOT record audio, video, or screen content
-* The App does NOT access personal files, messages, or communications
-* The App does NOT track users outside of school-related activities
-
-All collected data is used strictly for educational and administrative purposes within the school system.
-
-
 # How We Use Information
 
 We use collected information strictly to:
